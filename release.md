@@ -1,4 +1,4 @@
-# Release Notes
+# Release Notes (Signed)
 
 These release notes have been written using a markdown file.
 
